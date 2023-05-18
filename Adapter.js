@@ -41,4 +41,4 @@ const adaptee = new Adaptee();
 const adapter = new Adapter(adaptee);
 const client = new Client(adapter);
 
-client.makeRequest();
+client.makeRequest()
