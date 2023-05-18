@@ -38,4 +38,4 @@ adaptee = Adaptee()
 adapter = Adapter(adaptee)
 client = Client(adapter)
 
-client.makeRequest();
+client.makeRequest()
